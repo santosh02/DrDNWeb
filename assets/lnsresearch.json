@@ -1,0 +1,506 @@
+[
+					{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+					{
+						"year":2016,
+						"authors":"Restore Truncation for Performance Improvement in Future DRAM Systems",
+						"title":"Xianwei Zhang† Youtao Zhang† Bruce R. Childers† Jun Yang‡",
+						"details":"978-1-4673-9211-2/16/$31.00 ©2016 IEEE"},
+						{
+						"year":2016,
+						"authors":"Pramod Kumar Meher, Senior Member, IEEE",
+						"title":"On Efficient Retiming of Fixed-Point Circuits",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 24, NO. 4, APRIL 2016"},
+						{
+						"year":2016,
+						"authors":"Reza Zendegani, Mehdi Kamal, Milad Bahadori, Ali Afzali-Kusha, and Massoud Pedram",
+						"title":"RoBA Multiplier: A Rounding-Based Approximate Multiplier for High-Speed yet Energy-Efficient Digital Signal Processing",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS"},
+						{
+						"year":2016,
+						"authors":"Yongfei Zhang , Haiheng Cao, Hongxu Jiang, Bo Li ",
+						"title":"Memory-efficient high-speed VLSI implementation of multi-level discrete wavelet transform",
+						"details":"Beijing Key Laboratory of Digital Media, School of Computer Science and Engineering, Beihang University, Beijing 100191, China State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, Beijing 100191, China"},
+						{
+						"year":2016,
+						"authors":"J. N. Coleman and R. Che Ismail, Senior Member, IEEE",
+						"title":"LNS with Co-Transformation Competes with Floating-Point",
+						"details":"IEEE TRANSACTIONS ON COMPUTERS, VOL. 65, NO. 1, JANUARY 2016"},
+						{
+						"year":2016,
+						"authors":"Javier Hormigo, and Julio Villalba, Member, IEEE",
+						"title":"HUB-Floating-Point for improving FPGAimplementations of DSP Applications",
+						"details":"IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS–II: EXPRESS BRIEFS, , VOL. 99, NO. 9, APRIL 2016"},
+						{
+						"year":2016,
+						"authors":"Youri Popoff., Florian Scheidegger., Michael Schaffner., Michael Gautschi., Frank K. G urkaynak., Luca Benini",
+						"title":"High-Efficiency Logarithmic Number Unit Design based on an Improved Cotransformation Scheme",
+						"details":"ETH Z¨urich, 8092 Z¨urich, Switzerland, Universit`a di Bologna, Italy978-3-9815370-7-9/DATE16 2016 EDAA"},
+						{
+						"year":2016,
+						"authors":"Basant Kumar Mohanty, Gaurav Singh , Ganapati Panda ",
+						"title":"Hardware Design for VLSI Implementation of FxLMS- and FsLMS-Based Active Noise Controllers",
+						"details":"Circuits Syst Signal ProcessDOI 10.1007/s00034-016-0311-x"},
+						{
+						"year":2016,
+						"authors":"Olivier Féron, François Orieux, and Jean-François Giovannelli",
+						"title":"Gradient Scan Gibbs Sampler: An Efficient Algorithm for High-Dimensional Gaussian Distributions",
+						"details":"IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING, VOL. 10, NO. 2, MARCH 2016"},
+						{
+						"year":2016,
+						"authors":"Amir Kaivani and Seokbum Ko",
+						"title":"Floating-Point Butterfly Architecture Based on Binary Signed-Digit Representation",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 24, NO. 3, MARCH 2016"},
+						{
+						"year":2016,
+						"authors":"Georgios Zervakis, Kostas Tsoumanis, Student Member, IEEE, Sotirios Xydis, Dimitrios Soudris, and Kiamal Pekmestzi",
+						"title":"Design-Efficient Approximate Multiplication Circuits Through Partial Product Perforation",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS"},
+						{
+						"year":2016,
+						"authors":"Julio de Oliveira, Leonardo Soares, Eduardo Costa, 2Sergio Bampi",
+						"title":"Exploiting Approximate Adder Circuits for Power-Efficient Gaussian and Gradient Filters for Canny Edge Detector Algorithm",
+						"details":"VII Latin American Symposium on Circuits and Systems (LASCAS) 2016"},
+						{
+						"year":2016,
+						"authors":"Mansi Jhamb, Garima *, Himanshu Lohani",
+						"title":"Design, implementation and performance comparison of multiplier topologies in power-delay space",
+						"details":"Engineering Science and Technology, an International Journal 19 (2016) 355–363"},
+						{
+						"year":2016,
+						
+						"authors":"Aravind Illa, Nisha Haridas *, Elizabeth Elias",
+						"title":"Design of Multiplier-less FIR filters with Simultaneously Variable Bandwidth and Fractional Delay",
+						"details":"Engineering Science and Technology, an International Journal 19 (2016) 1160–1165"},
+						{
+						"year":2016,
+						"authors":"Abhijit Chandra ,*, Sudipta Chattopadhyay ",
+						"title":"Design of hardware efficient FIR filter: A review of the state-of-the-art approaches",
+						"details":"Engineering Science and Technology, an International Journal 19 (2016) 212–226"},
+						{
+						"year":2016,
+						"authors":"Rahul Shrestha§, Member, IEEE and Utkarsh Rastogi",
+						"title":"Design and Implementation of Area-Efficient and Low-Power Configurable Booth-Multiplier",
+						"details":"2016 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems"},
+						{
+						"year":2016,
+						"authors":"Abubakr O. Al-Abbasi, Ridha Hamila, Waheed U. Bajwa, and Naofal Al-Dhahir",
+						"title":"Design and Analysis Framework for Sparse FIR Channel Shortening",
+						"details":"IEEE ICC 2016 - Signal Processing for Communications Symposium"},
+						{
+						"year":2016,
+						"authors":"Jaejoon Choi, Jaehwan Jung, Student Member, IEEE, and In-Cheol Park, Senior Member, IEEE",
+						"title":"Area-Efficient Approach for Generating Quantized Gaussian Noise",
+						"details":"IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS, VOL. 63, NO. 7, JULY 2016"},
+						{
+						"year":2016,
+						"authors":"Honglan Jiang, Student Member, IEEE, Jie Han, Member, IEEE, Fei Qiao, and Fabrizio Lombardi, Fellow, IEEE",
+						"title":"Approximate Radix-8 Booth Multipliers for Low-Power and High-Performance Operation",
+						"details":"IEEE TRANSACTIONS ON COMPUTERS, VOL. 65, NO. 8, AUGUST 2016"},
+						{
+						"year":2016,
+						
+						
+						"authors":"Fu-Jhong Yang*, Pei-Yin Chen, Member, IEEE, Chih-Ling Hsu ,Chih-Yuan Lien",
+						"title":"An Efficient Quadtree-based Block Truncation Coding for Digital Image Compression",
+						"details":"2016 30th International Conference on Advanced Information Networking and Applications Workshops"},
+						{
+						"year":2016,
+						
+						"authors":"Basant Kumar Mohanty , Pramod Kumar Meher , Subodh Kumar Singhal , M.N.S. Swamy ",
+						"title":"A high-performanceVLSIarchitectureforreconfigurableFIR using distributedarithmetic",
+						"details":"INTEGRATION,theVLSIjournal54(2016)37–46"},
+						{
+						"year":2016,
+						
+						"authors":"S.Suvarna, K. Rajesh, T. Radhu",
+						"title":"A Modified Architecture for Radix-4 Booth Multiplier with Adaptive Hold Logic",
+						"details":"International Journal of Students’ Research In Technology & Management Vol 4 (1) Jan-Feb 2016, pg 01-05 eISSN 2321-2543, doi: 10.18510/ijsrtm.2016.411"},
+						{
+						"year":2015,
+						"authors":"Gian Domenico Licciardo, Member, IEEE, Carmine Cappetta, Student Member, IEEE, Luigi Di Benedetto, Member, IEEE and Mario Vigliar",
+						"title":"Weighted Partitioning for Fast Multiplier-less Multiple Constant Convolution Circuit",
+						"details":"Citation information: DOI 10.1109/TCSII.2016.2546899, IEEE Transactions on Circuits and Systems II: Express Briefs"},
+						{
+						"year":2015,
+						"authors":"Massimo Alioto, Senior Member, IEEE, Elio Consoli, and Gaetano Palumbo, Fellow, IEEE",
+						"title":"Variations in Nanometer CMOS Flip-Flops: Part I—Impact of Process Variations on Timing",
+						"details":"IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS"},
+						{
+						"year":2015,
+						"authors":"Massimo Alioto, Senior Member, IEEE, Elio Consoli, and Gaetano Palumbo, Fellow, IEEE",
+						"title":"Variations in Nanometer CMOS Flip-Flops: Part II—Energy Variability and Impact of Other Sources of Variations",
+						"details":"IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS"},
+						{
+						"year":2015,
+						"authors":"Joshua Yung Lih Low, Student Member, IEEE and Ching Chuen Jong, Member, IEEE",
+						"title":"Unified Mitchell-Based Approximation for Efficient Logarithmic Conversion Circuit",
+						"details":"IEEE TRANSACTIONS ON COMPUTERS, VOL. 64, NO. 6, JUNE 2015"},
+						{
+						"year":2015,
+						"authors":"Sumod Abraham Sukhmeet Kaur Shivani Singh",
+						"title":"Study of Various High Speed Multipliers",
+						"details":"2015 International Conference on Computer Communication and Informatics (ICCCI -2015), Jan. 08 – 10, 2015, Coimbatore, INDIA"},
+						{
+						"year":2015,
+						"authors":"Arindam Banerjee, Debesh Kumar Das",
+						"title":"Squarer Design with Reduced Area and Delay",
+						"details":"978-1-4799-1743-3/15/31.00 2015 IEEE"},
+						{
+						"year":2015,
+						"authors":"Pramod Kumar Meher1",
+						"title":"Seamless Pipelining of DSP Circuits",
+						"details":"Circuits Syst Signal Process DOI 10.1007/s00034-015-0089-2"},
+						{
+						"year":2015,
+						"authors":"I-Chyn Wey, Chien-Chang Peng, and Feng-Yu Liao",
+						"title":"Reliable Low-Power Multiplier Design Using Fixed-Width Replica Redundancy Block",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 23, NO. 1, JANUARY 2015"},
+						{
+						"year":2015,
+						"authors":"Srikanth Immareddy, Sravan Kumar Talusani, Rayavarapu Prasad Rao",
+						"title":"Recursive Approach to the Design of a Parallel Self-Timed Adder",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 23, NO. 1, JANUARY 2015"},
+						{
+						"year":2015,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Realization of FIR Filter using High Speed, Low Power Floating Point Arithmetic Unit",
+						"details":"978-1-479-7678- 2/15/$31.0 ©2015 IEEE"},
+						{
+						"year":2015,
+						"authors":"Manuel de la Guia Solaz and Richard Conway",
+						"title":"Razor Based Programmable Truncated Multiply and Accumulate, Energy-Reduction for Efficient Digital Signal Processing",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 23, NO. 1, JANUARY 2015"},
+						{
+						"year":2015,
+						"authors":"Partha Bhattacharyya, Senior Member, IEEE, Bijoy Kundu, Sovan Ghosh, Vinay Kumar, Member, IEEE,and Anup Dandapat, Member, IEEE",
+						"title":"Performance Analysis of a Low-Power High-Speed Hybrid 1-bit Full Adder Circuit",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS, VOL. 23, NO. 10, OCTOBER 2015"},
+						{
+						"year":2015,
+						"authors":"Liyaqat Nazir, Roohie Naaz Mir",
+						"title":"Performance Analysis of Various scheduling algorithms using FPGA Platforms.",
+						"details":"2015 International Conference on VLSI Systems, Architecture, Technology and Applications (VLSI-SATA)"},
+						{
+						"year":2015,
+						"authors":"Sajib Kumar Mitra and Ahsan Raja Chowdhury",
+						"title":"Optimized Logarithmic Barrel Shifter in Reversible Logic Synthesis",
+						"details":"2015 28th International Conference on VLSI Design and 2015 14th International Conference on Embedded Systems"},
+						{
+						"year":2015,
+						"authors":"Jesús O. Lacruz, Francisco García-Herrero, Javier Valls, Member, IEEE, and David Declercq, Senior Member, IEEE",
+						"title":"One Minimum Only Trellis Decoder for Non-Binary Low-Density Parity-Check Codes",
+						"details":"IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS, VOL. 62, NO. 1, JANUARY 2015"},
+						{
+						"year":2015,
+						"authors":"IMMADISETTY SIVA PARVATHI, G.VASANTH RAO",
+						"title":"Novel Design of Low Power Comparator Using Reversible Gates",
+						"details":"Siva Parvathi et al., International Journal of Computer Engineering In Research Trends Volume 2, Issue 11, November-2015, pp. 882-886 ISSN (O): 2349-7084"},
+						{
+						"year":2015,
+						"authors":"Vishnuvardhan Rao.K, A. Anita Angeline, V. S. Kanchana Bhaaskaran",
+						"title":"Modified Constant Delay Logic",
+						"details":"IEEE SPONSORED 2’ND INTERNATIONAL CONFERENCE ON ELECTRONICS AND COMMUNICATION SYSTEMS(ICECS ‘2015)"},
+						{
+						"year":2015,
+						"authors":"Basant Kumar Mohanty,P.K. Meher,S.K. Patel",
+						"title":"LUT Optimization for Distributed Arithmetic Based Block Least Mean Square Adaptive Filter",
+						"details":"ARTICLE in IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS · SEPTEMBER 2015"},
+						{
+						"year":2015,
+						"authors":"Tso-Bing Juang, Han-Lung Kuo & Kai-Shiang Jan",
+						"title":"Lower-error and area-efficient antilogarithmic converters with bit-correction schemes",
+						"details":"ISSN: 0253-3839 (Print) 2158-7299 (Online) Journal homepage: http://www.tandfonline.com/loi/tcie20"},
+						{
+						"year":2015,
+						"authors":"R.Sakthivel, M.Vanitha, Kishore Sanapala, K.Thirumalesh",
+						"title":"Low Power Modulo 2^n+1 Multiplier Using Data Aware Adder Tree ",
+						"details":"1877-0509 © 2015 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).Peer-review under responsibility of the Organizing Committee of ICECCS 2015 doi: 10.1016/j.procs.2015.10.033"},
+						{
+						"year":2015,
+						"authors":"Hoang Van Phuc, Sai Van Thuan, Pham Cong Kha",
+						"title":"LOW AREA ASIC IMPLEMENTATION OF LOGARITHM APPROXIMATION FOR DIGITAL SIGNAL PROCESSING",
+						"details":"Chuyên san Công ngh» thông tin và Truy·n thông - Sè 7 (10-2015)"},
+						{
+						"year":2015,
+						"authors":"Swetha Bharati K and Ashok Jhunjhunwala",
+						"title":"Implementation of Machine Learning Applications on a Fixed-Point DSP",
+						"details":"Proceeding of the IEEE 28th Canadian Conference on Electrical and Computer Engineering Halifax, Canada, May 3-6, 2015"},
+						{
+						"year":2015,
+						"authors":"Shardul P. Telharkar, Shantanu P. Telharkar, Shreerang G. Dabade",
+						"title":"Implementation and Comparison of Two Novel Approaches to a Pipelined Logarithmic Multiplier",
+						"details":"International Journal of Advanced Research in Electrical,Electronics and Instrumentation Engineering (An ISO 3297: 2007 Certified Organization) Vol. 4, Issue 7, July 2015"},
+						{
+						"year":2015,
+						"authors":"R. Suganya ,D. Meganathan",
+						"title":"High Performance VLSI Adders",
+						"details":"2015 3rd International Conference on Signal Processing, Communication and Networking (ICSCN)"},
+						{
+						"year":2015,
+						"authors":"Alicia Klinefelter, Joseph Ryan, James Tschanz, Benton H. Calhoun",
+						"title":"Error-Energy Analysis of Hardware Logarithmic Approximation Methods for Low Power Applications",
+						"details":"978-1-4799-8391-9/15/$31.00 ©2015 IEEE"},
+						{
+						"year":2015,
+						"authors":"Basant Kumar Mohanty, Sujit Kumar Patel",
+						"title":"Efficient very large-scale integration architecture for variable length block least mean square adaptive filter",
+						"details":"IET Signal Process., 2015, Vol. 9, Iss. 8, pp. 605–610 & The Institution of Engineering and Technology 2015"},
+						{
+						"year":2015,
+						"authors":"Shaeen Kalathil *, Bijili Sravan Kumar, Elizabeth Elias",
+						"title":"Efficient design of multiplier-less digital channelizers using recombination non-uniform filter banks",
+						"details":"1018-3639  2015 The Authors. Production and hosting by Elsevier B.V. on behalf of King Saud University"},
+						{
+						"year":2015,
+						"authors":"Fatemeh Alaghemand, Majid Haghparast",
+						"title":"Designing and Improvement of a New Reversible Floating Point Adder",
+						"details":"Current Trends in Technology and Science ISSN : 2279-0535. Volume : 04, Issue : 04 (June- July 2015)"},
+						{
+						"year":2015,
+						"authors":"A. N. Bhagat, S. P. Hajare, and P. K. Dakhole",
+						"title":"Design of Radix-4 Squaring Circuit using Dual Recoding Technique",
+						"details":"This full-text paper was peer-reviewed and accepted to be presented at the IEEE ICCSP 2015 conference."},
+						{
+						"year":2015,
+						"authors":"Jochen Rust and Steffen Paul",
+						"title":"Design Method for Multiplier-Less Two-Variable Numeric Function Approximation",
+						"details":"978-3-9815370-4-8/DATE15/ 2015 EDAA 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE)"},
+						{
+						"year":2015,
+						"authors":"Pravin S. Kapgate, Somulu P. Gugulothu",
+						"title":"Design and Implementation of Complex Arithmetic Operations using Binary Logarithmic Number System",
+						"details":"This full-text paper was peer-reviewed and accepted to be presented at the IEEE ICCSP 2015 conference"},
+						{
+						"year":2015,
+						"authors":"Sana Fazal1, Mohd Ahmer",
+						"title":"Design & Analysis of Low Power Full Adder",
+						"details":"International Journal of Scientific Research Engineering & Technology (IJSRET), ISSN 2278 – 0882 Volume 4, Issue 11, November 2015"},
+						{
+						"year":2015,
+						"authors":"Priyanka Trivedi, Rajan Prasad Tripathi",
+						"title":"Design & Analysis of 16 bit RISC Processor Using low Power Pipelining",
+						"details":"International Conference on Computing, Communication and Automation (ICCCA2015), ISBN:978-1-4799-8890-7/15/$31.00 ©2015 IEEE"},
+						{
+						"year":2015,
+						"authors":"Carlos Garcia-Vega, Sonia Gonzalez-Navarro, Pedro Balboa-La Chica and Julio Villalba-Moreno, Member, IEEE",
+						"title":"Decimal Multiformat Online Addition",
+						"details":"0018-9340 (c) 2015 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information."},
+						{
+						"year":2015,
+						"authors":"Jyoti Sankar Sahoo, Nirmal Kumar Rout",
+						"title":"Comparative Study on Low Power Barrel Shifter/Rotator at 45nm Technology",
+						"details":"International Journal of Advanced Engineering and Nano Technology (IJAENT) ISSN: 2347-6389, Volume-2 Issue-6, May 2015"},
+						{
+						"year":2015,
+						"authors":"Pranay Yadav",
+						"title":"Color Image Noise Removal by Modified Adaptive Threshold Median Filter for RVIN",
+						"details":""},
+						{
+						"year":2015,
+						"authors":"Basant Kumar Mohanty & Subodh Kumar Singhal",
+						"title":"Area-Delay and Energy-Efficient Throughput-Scalable VLSI Architecture for SDR Channelizer",
+						"details":"Received: 6 August 2014 / Revised: 9 October 2015 / Accepted: 10 October 2015 © Springer Science+Business Media New York 2015"},
+						{
+						"year":2015,
+						"authors":"Amir Kaivani and Seok-Bum Ko",
+						"title":"Area efficient floating-point FFT butterfly architectures based on multi-operand adders",
+						"details":"ELECTRONICS LETTERS 11th June 2015 Vol. 51 No. 12 pp. 895–897"},
+						{
+						"year":2015,
+						"authors":"",
+						"title":"",
+						"details":""},
+						{
+						"year":2014,
+						"authors":"Gurtac Yemiscioglu , Peter Lee",
+						"title":"Very-large-scale integration implementation of a 16-bit clocked adiabatic logic logarithmic signal processor",
+						"details":"ISSN 1751-8601 Received on 15th May 2014 Accepted on 31st October 2014 doi: 10.1049/iet-cdt.2014.0102 www.ietdl.org"},
+						{
+						"year":2014,
+						"authors":"Djaafar Chabi, Weisheng Zhao, Member, IEEE, Erya Deng, Yue Zhang, Student Member, IEEE,Nesrine Ben Romdhane, Jacques-Olivier Klein, Member, IEEE, and Claude Chappert, Member, IEEE",
+						"title":"Ultra Low Power Magnetic Flip-Flop Based on Checkpointing/Power Gating and Self-Enable Mechanisms",
+						"details":"IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS, VOL. 61, NO. 6, JUNE 2014"},
+						{
+						"year":2014,
+						"authors":"Nicola Petra n, DavideDeCaro,ValeriaGarofalo,EttoreNapoli,AntonioG.M.Strollo",
+						"title":"Truncated squarer with minimum mean-square error",
+						"details":"Micro electronics Journal 45 (2014) 799–804"},
+						{
+						"year":2014,
+						"authors":"Alex Pappachen James, Dinesh S. Kumar, and Arun Ajayan",
+						"title":"Threshold Logic Computing: Memristive-CMOS Circuits for Fast Fourier Transform and Vedic Multiplication",
+						"details":"IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS"},
+						{
+						"year":2014,
+						"authors":"Siti Zarina Md Naziri, Rizalafande Che Ismail, Ali Yeon Md Shakaff",
+						"title":"The Design Revolution of Logarithmic Number System Architecture",
+						"details":"2014 2nd International Conference on Electrical, Electronics and System Engineering (ICEESE)"},
+						{
+						"year":2014,
+						"authors":"Anjana S,*, Pradeep C, Philip Samuel",
+						"title":"Synthesize of High Speed Floating-point Multipliers Based on Vedic Mathematics",
+						"details":"International Conference on Information and Communication Technologies (ICICT 2014)"},
+						{
+						"year":2014,
+						"authors":"Mark G. Arnold · Sylvain Collange",
+						"title":"Options for Denormal Representation in Logarithmic Arithmetic",
+						"details":"J Sign Process Syst (2014) 77:207–220 DOI 10.1007/s11265-014-0874-3"},
+						{
+						"year":2014,
+						"authors":"Atul Rahman#, Abdullah-Al-Kafi#, Mr. Khalid#, A.T.M. Saiful Islam*, Mahmudur Rahman",
+						"title":"Optimized Hardware Architecture for Implementing IEEE 754 Standard Double Precision Floating Point Adder/Subtractor",
+						"details":"2014 17th International Conference on Computer and Information Technology (ICCIT)"},
+						{
+						"year":2014,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Multiplier-less pipeline architecture for lifting-based two-dimensional discrete wavelet transform",
+						"details":"Published in IET Computers & Digital Technique Received on 13th January 2014 Revised on 21st May 2014 Accepted on 26th July 2014 doi: 10.1049/iet-cdt.2013.0167"},
+						{
+						"year":2014,
+						"authors":"Alexandru Amaricai, Oana Boncalo, Constantina-Elena Gavriliu",
+						"title":"Low-precision DSP-based floating-point multiply-add fused for Field Programmable Gate Arrays",
+						"details":"Published in IET Computers & Digital Techniques Received on 7th September 2013 Revised on 21st February 2014 Accepted on 25th March 2014 doi: 10.1049/iet-cdt.2013.0128"},
+						{
+						"year":2013,
+						"authors":"Ch. Srigowri, Douglas L. M.Srihari",
+						"title":"VLSI Design of Low Power Reversible 8-bit Barrel Shifter",
+						"details":"INTERNATIONAL JOURNAL OF TECHNOLOGICAL EXPLORATION AND LEARNING (IJTEL) www.ijtel.org"},
+						{
+						"year":2013,
+						"authors":"Joshua Yung Lih Low, Ching Chuen Jong",
+						"title":"Non-iterative High Speed Division Computation Based on Mitchell Logarithmic Method",
+						"details":"978-1-4673-5762-3/13/ ©2013 IEEE"},
+						{
+						"year":2013,
+						"authors":"Basant K. Mohanty · Vikas Tiwari",
+						"title":"Modified PEB Formulation for Hardware-Efficient Fixed-Width Booth Multiplier",
+						"details":"Circuits Syst Signal Process (2014) 33:3981–3994 DOI 10.1007/s00034-014-9843-0"},
+						{
+						"year":2013,
+						"authors":"Vaibhav Gupta, Debabrata Mohapatra, Anand Raghunathan, Fellow, IEEE, and Kaushik Roy, Fellow, IEEE",
+						"title":"Low-Power Digital Signal Processing Using Approximate Adders",
+						"details":"IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS, VOL. 32, NO. 1, JANUARY 2013"},
+						{
+						"year":2013,
+						"authors":"Shambhavi Mishra , Gaurav Verma",
+						"title":"Low Power and Area Efficient Implementation of BCD Adder on FPGA",
+						"details":"978-1 -4799-1 607-8/1 3/$31 .00©201 3 I E E E"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+						{
+						"year":2016,
+						"authors":"Abhishek Kumar Jain, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Throughput Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+
+						{
+						"year":2016,
+						"authors":"Durgesh Nandan, Douglas L. Maskell,Suhaib A. Fahmy",
+						"title":"Object Oriented FPGA Overlays Using DSP Blocks",
+						"details":"Design, Automation & Test in Europe Conference & Exhibition"},
+
+					
+					{
+						"year":2013,
+						"authors":["M. COMBET, H. VAN ZONNEVELD, AND L. VERBEEK,"],
+						"title":"Computation of the Base Two Logarithm of Binary Numbers",
+						"details":"IEEE TRANSACTIONS ON ELECTRONIC COMPUTERS VOL. EC-14, NO. 6 DECEMBER, 1963"} 
+
+			]
